@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Yerzhan Yesbolov](https://up.htmlacademy.ru/adaptive/21/user/1579855).
-* Наставник: `Лисененкова Анна`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/id85590).
 
 ---
 
